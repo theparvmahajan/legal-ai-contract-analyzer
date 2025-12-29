@@ -624,6 +624,3 @@ legal_ai_contract_analyzer/
     ├── process_dataset.py
     └── run_tests.sh
 ```
-
-
-egration for advanced analysis
