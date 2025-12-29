@@ -12,8 +12,6 @@
 [![Transformers](https://img.shields.io/badge/🤗_Transformers-4.35.0-FFD21E?style=flat)](https://huggingface.co/transformers/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](LICENSE)
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Demo](#-demo) • [Documentation](#-documentation)
-
 </div>
 
 ---
@@ -33,15 +31,6 @@
 - [API Documentation](#-api-documentation)
 - [Models & Dataset](#-models--dataset)
 - [Project Structure](#-project-structure)
-- [Configuration](#️-configuration)
-- [Performance & Requirements](#-performance--requirements)
-- [Troubleshooting](#-troubleshooting)
-- [Development](#-development)
-- [Deployment](#-deployment)
-- [Roadmap](#️-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Acknowledgments](#-acknowledgments)
 
 ---
 
